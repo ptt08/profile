@@ -5,7 +5,7 @@ html {
 }
 
 body {
-  background: #dbf4ff;
+  background-image: linear-gradient(120deg, #a1c4fd 0%, #c2e9fb 100%);
   font-family: 'Open Sans', sans-serif;
   font-size: 1em;
   color: #023047;
